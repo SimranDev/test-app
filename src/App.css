@@ -4,7 +4,9 @@
   align-items: center;
   align-content: center;
   text-align: center;
-  height: 600px;
+  height: 700px;
+  background-color: black;
+  color: wheat;
 }
 
 .App * {
